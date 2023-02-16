@@ -6,7 +6,7 @@
     <Header />
     <Hero />
     <About/>
-    <Projects />
+    <portifolio />
     <Footer />
     </div>
   </div>

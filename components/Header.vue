@@ -1,7 +1,7 @@
 <template>
   <header class="flex items-center justify-between h-20 max-w-6xl mx-auto p-7 lg:px-0">
     <NuxtLink to="/">
-      <IconLogo class="w-14 h-14" />
+      <img src="/YUMIM_logo.png" class="w-35 h-20" />
     </NuxtLink>
 
     <div class="justify-self-end flex">
@@ -15,7 +15,7 @@
       </template>
     </ul>
       <NuxtLink to="#contact" class="px-5 py-2 text-sm bg-violet-700 text-white rounded-full hover:bg-violet-900 transition-all duration-500">
-        Contate-me
+        Download CV
       </NuxtLink>
     </div>
   </header>
