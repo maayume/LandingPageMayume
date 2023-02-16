@@ -5,7 +5,7 @@
     </h1>
     <div class="flex grid-cols-1 gap-4 mt-12 justify-center">
       <div class="flex flex-col md:flex-row md:max-w-6xl rounded-lg bg-white shadow-xl">
-        <img class=" md:w-1/3 h-96 md:h-auto object-cover md:w-30 rounded-t-lg md:rounded-none md:rounded-l-lg" src="/paisagem2.jpeg" alt="" />
+        <img class=" md:w-1/3 h-96 md:h-auto object-cover md:w-30 rounded-t-lg md:rounded-none md:rounded-l-lg" src="/mayume.png" alt="" />
         <div class="md:col-span-8 p-6 md:flex flex-col self-center justify-start">
           <h1 class="font-semibold text-[30px] leading-snug">
             <span class="font-extrabold ">Olá, eu sou a <span class="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Mayume</span></span>

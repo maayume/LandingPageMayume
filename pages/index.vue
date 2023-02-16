@@ -7,6 +7,7 @@
     <Hero />
     <About/>
     <portifolio />
+    <Contact />
     <Footer />
     </div>
   </div>
