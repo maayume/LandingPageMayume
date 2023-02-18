@@ -1,13 +1,14 @@
 <template>
-  <VCard class="max-w-full">
-    <h1 class="font-semibold text-[30px] text-center leading-snug">
-      <span class="font-bold bg-clip-text text-transparent bg-pink-600 my-12">CONTATE-ME</span>
-    </h1>
+  <VCard id="contact" class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-white contents flex-col">
+
     <div class="container px-6 py-12 h-full max-w-full">
       <div class="flex justify-center items-center flex-wrap h-full g-6 text-gray-800">
         <div class="md:w-8/12">
-          <form>
-            <div class="mb-6">
+          <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+            <h1 class="font-semibold text-[30px] text-center leading-snug">
+              <span class="font-bold bg-clip-text text-transparent bg-pink-600">CONTATE-ME</span>
+            </h1>
+            <div class="my-6">
               <input
                 type="text"
                 class="form-control block w-full px-4 py-2 text-xl font-normal text-gray-700 bg-white bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none"

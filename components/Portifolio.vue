@@ -1,12 +1,100 @@
 <template>
-  <VCard class="h-screen">
-    <div class="flex h-screen">
-      <div class="flex-1 ...">01</div>
-      <div class="contents">
-        <div class="flex-1 ...">02</div>
-        <div class="flex-1 ...">03</div>
+  <VCard id="portifolio" class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-pink-100">
+    <div class="flex flex-wrap space-x-4  space-y-4 justify-center m-10 ">
+      <div>
+        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+          <div class="px-6 py-4">
+            <div class="font-bold text-xl mb-2">Omma</div>
+            <p class="text-gray-700 text-base">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+            </p>
+          </div>
+          <div class="px-6 pt-4 pb-2">
+            <NuxtLink to="#contact" target="_blank" class="px-3 py-1 text-sm bg-violet-700 text-white rounded-full hover:bg-violet-900 transition-all duration-500">
+              Link do projeto Omma
+            </NuxtLink>
+          </div>
+        </div>
       </div>
-      <div class="flex-1 ...">04</div>
+      <div>
+        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+          <div class="px-6 py-4">
+            <div class="font-bold text-xl mb-2">Dindin</div>
+            <p class="text-gray-700 text-base">
+             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+            </p>
+          </div>
+          <div class="px-6 pt-4 pb-2">
+            <NuxtLink to="https://maayume.github.io/xp42-dindin/" target="_blank" class="px-3 py-1 text-sm bg-violet-700 text-white rounded-full hover:bg-violet-900 transition-all duration-500">
+              Link do projeto Dindin
+            </NuxtLink>
+          </div>
+        </div>
+      </div>
+
+        <div>
+          <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">Sound Garden</div>
+              <p class="text-gray-700 text-base">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+              </p>
+            </div>
+            <div class="px-6 pt-4 pb-2">
+              <NuxtLink to="https://maayume.github.io/SOUND-GARDEN/" target="_blank" class="px-3 py-1 text-sm bg-violet-700 text-white rounded-full hover:bg-violet-900 transition-all duration-500">
+                Link do projeto Dindin
+              </NuxtLink>
+            </div>
+          </div>
+
+        </div>
+      <div>
+        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+          <div class="px-6 py-4">
+            <div class="font-bold text-xl mb-2">La Vie</div>
+            <p class="text-gray-700 text-base">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+            </p>
+          </div>
+          <div class="px-6 pt-4 pb-2">
+            <NuxtLink to="https://maayume.github.io/xp42-dindin/" target="_blank" class="px-3 py-1 text-sm bg-violet-700 text-white rounded-full hover:bg-violet-900 transition-all duration-500">
+              Link do projeto Dindin
+            </NuxtLink>
+          </div>
+        </div>
+
+      </div>
+      <div>
+        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+          <div class="px-6 py-4">
+            <div class="font-bold text-xl mb-2">Lacrei</div>
+            <p class="text-gray-700 text-base">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+            </p>
+          </div>
+          <div class="px-6 pt-4 pb-2">
+            <NuxtLink to="https://maayume.github.io/xp42-dindin/" target="_blank" class="px-3 py-1 text-sm bg-violet-700 text-white rounded-full hover:bg-violet-900 transition-all duration-500">
+              Link do projeto Dindin
+            </NuxtLink>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+          <div class="px-6 py-4">
+            <div class="font-bold text-xl mb-2">Lin Acupuntura</div>
+            <p class="text-gray-700 text-base">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+            </p>
+          </div>
+          <div class="px-6 pt-4 pb-2">
+            <NuxtLink to="https://maayume.github.io/xp42-dindin/" target="_blank" class="px-3 py-1 text-sm bg-violet-700 text-white rounded-full hover:bg-violet-900 transition-all duration-500">
+              Link do projeto Dindin
+            </NuxtLink>
+          </div>
+        </div>
+
+      </div>
     </div>
   </VCard>
 </template>
