@@ -13,7 +13,7 @@
           <h1 class="font-semibold text-[18px] leading-snug pt-5 pb-5">
             <span class="font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-violet-600 via-pink-600 to-amber-600">Desenvolvedora front-end</span>
           </h1>
-          <p class="text-gray-700 text-base font-light text-lg text-justify">
+          <p class="text-gray-700 text-base font-light text-[15px] md:text-[18px] lg:text-[22px] text-justify">
             Meu nome é Mayume Cristine, tenho 27 anos, resido na cidade de Curitiba.
             Gosto muito de esportes, fazer atividades ao ar livre, hiking e assistir filmes.
             Tenho uma formação recente em Desenvolvimento full stack.

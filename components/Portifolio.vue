@@ -1,8 +1,8 @@
 <template>
   <VCard id="portifolio" class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-pink-100">
-    <div class="flex flex-wrap space-x-4  space-y-4 justify-center m-10 ">
+    <div class="flex flex-wrap gap-4 hover:gap-6 justify-center m-10 ">
       <div>
-        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-90 hover:shadow-violet-600">
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">Omma</div>
             <p class="text-gray-700 text-base">
@@ -17,7 +17,7 @@
         </div>
       </div>
       <div>
-        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-90 hover:shadow-violet-600">
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">Dindin</div>
             <p class="text-gray-700 text-base">
@@ -33,7 +33,7 @@
       </div>
 
         <div>
-          <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+          <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-90 hover:shadow-violet-600">
             <div class="px-6 py-4">
               <div class="font-bold text-xl mb-2">Sound Garden</div>
               <p class="text-gray-700 text-base">
@@ -49,7 +49,7 @@
 
         </div>
       <div>
-        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-90 hover:shadow-violet-600">
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">La Vie</div>
             <p class="text-gray-700 text-base">
@@ -65,7 +65,7 @@
 
       </div>
       <div>
-        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-90 hover:shadow-violet-600">
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">Lacrei</div>
             <p class="text-gray-700 text-base">
@@ -80,7 +80,7 @@
         </div>
       </div>
       <div>
-        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-110 hover:shadow-violet-600">
+        <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-90 hover:shadow-violet-600">
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">Lin Acupuntura</div>
             <p class="text-gray-700 text-base">
