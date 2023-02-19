@@ -1,5 +1,5 @@
 <template>
-  <VCard id="footer" class="justify-items-center px-5 lg:px-0 pt-14 lg:pt-12 flex bg-white contents flex-col">
+  <VCard class="justify-items-center px-5 lg:px-0 pt-14 lg:pt-12 flex bg-white contents flex-col">
     <div class=" flex items-center justify-center py-10">
       <NuxtLink to="https://www.linkedin.com/in/mayume-cristine/" target="_blank" class="transition delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="40px" style="color: #FFF;"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path fill="currentColor" d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"/></svg>

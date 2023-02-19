@@ -1,6 +1,5 @@
 <template>
   <VCard id="contact" class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-white contents flex-col">
-
     <div class="container px-6 py-12 h-full max-w-full">
       <div class="flex justify-center items-center flex-wrap h-full g-6 text-gray-800">
         <div class="md:w-8/12">

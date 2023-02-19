@@ -1,5 +1,5 @@
 <template>
-  <VCard id="about" class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-white contents flex-col">
+  <VCard class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-white contents flex-col">
     <h1 class="font-semibold text-[30px] text-center leading-snug">
       <span class="font-bold bg-clip-text text-transparent bg-pink-600">SOBRE MIM</span>
     </h1>

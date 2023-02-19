@@ -8,7 +8,7 @@
     <ul class="sm:flex items-center space-x-3 hidden">
       <template v-for="(n) in nav" :key="n">
         <li>
-          <NuxtLink class="inline-block px-3 py-2 bg-gray-50 rounded-full text-violet-700 font-bold text-sm hover:text-violet-300 transition-all duration-300" :to="n.link">
+          <NuxtLink class="inline-block px-3 py-2 rounded-full text-violet-700 font-bold text-sm hover:text-violet-300 transition-all duration-300" :to="n.link">
             {{ n.name }}
           </NuxtLink>
         </li>
@@ -35,9 +35,9 @@
       name: "PORTIFOLIO",
       link: "/#projects",
     },
-    // {
-    //   name: "CONTATO",
-    //   link: "/#contact",
-    // },
+    {
+      name: "CONTATO",
+      link: "/#contact",
+    },
   ]
 </script>
