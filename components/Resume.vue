@@ -1,5 +1,5 @@
 <template>
-  <VCard class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-white contents flex-col">
+  <VCard class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-purple-700 flex-col">
     <!-- <div id="partners" class=" mb-12 lg:mb-20 lg:pt-12">
       <h1 class="font-bold text-3xl text-white text-brand-accent text-center lg:text-4xl">
         Ferramentas
@@ -68,10 +68,10 @@
             </div>
             <div class="block p-6 rounded-lg shadow-lg bg-gray-100 max-w-md ml-6 mb-10">
               <div class="flex justify-between mb-4">
-                <a href="#!" class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm text-justify">Estágio em desenvolvimento <br/> Clinic Tecnologia em Saúde</a>
-                <a href="#!" class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm">07/2022 - Atual</a>
+                <a class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm mr-10">Estágio em desenvolvimento <br/> Clinic Tecnologia em Saúde</a>
+                <a class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm">07/2022 - Atual</a>
               </div>
-              <p class="text-gray-700 mb-6 text-justify">Faço ajuste de layouts, implemento novas features e soluciono problemas em projetos já existentes na empresa com Vue.js. Participei do desenvolvimento de um site que cria templates para o whatsapp onde fiz o uso de Nuxt.js, Javascript, Regex, Vuetify. Atualmente estou participando no desenvolvimento de um prontuário médico.</p>
+              <p class="text-gray-700 mb-6 text-justify">Realizo o ajuste de layouts, implemento novas features e soluciono problemas em projetos já existentes na empresa com Vue.js. Participei no desenvolvimento de um site que cria templates para o whatsapp onde utilizei Nuxt.js, Javascript, Regex e Vuetify. Atualmente estou participando no desenvolvimento de um prontuário médico.</p>
             </div>
           </div>
         </li>
@@ -84,8 +84,8 @@
             </div>
             <div class="block p-6 rounded-lg shadow-lg bg-gray-100 max-w-md ml-6 mb-10">
               <div class="flex justify-between mb-4">
-                <a href="#!" class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm text-justify">Auxiliar de registro <br/> 14º Registro de Imóveis</a>
-                <a href="#!" class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm">11/2013 - 12/2016</a>
+                <a class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm mr-3">Auxiliar de registro <br/> 14º Registro de Imóveis</a>
+                <a class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm">11/2013 - 12/2016</a>
               </div>
               <p class="text-gray-700 mb-6 text-justify">Realizava lavratura de certidões, transcrição de documentos, arquivamento de pastas e atendimento.</p>
             </div>
@@ -100,15 +100,15 @@
             </div>
             <div class="block p-6 rounded-lg shadow-lg bg-gray-100 max-w-md ml-6 mb-10">
               <div class="flex justify-between mb-4">
-                <a href="#!" class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm">Jovem aprendiz <br/> Tribunal de Justiça SP</a>
-                <a href="#!" class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm">01/2012 - 12/2012</a>
+                <a class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm mr-3">Jovem aprendiz <br/> Tribunal de Justiça SP</a>
+                <a class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm">01/2012 - 12/2012</a>
               </div>
               <p class="text-gray-700 mb-6">Voluptatibus temporibus esse illum eum aspernatur, fugiat suscipit natus! Eum corporis illum nihil officiis tempore. Excepturi illo natus libero sit doloremque, laborum molestias rerum pariatur quam ipsam necessitatibus incidunt, explicabo.</p>
             </div>
           </div>
         </li>
       </ol>
-      </div>
+    </div>
   </VCard>
 </template>
 

@@ -1,9 +1,9 @@
 <template>
-  <VCard class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-white contents flex-col">
+  <VCard class="lg:px-0 pt-14 lg:pt-12 flex bg-violet-250  flex-col">
     <h1 class="font-semibold text-[30px] text-center leading-snug">
       <span class="font-bold bg-clip-text text-transparent bg-pink-600">SOBRE MIM</span>
     </h1>
-    <div class="flex grid-cols-1 gap-4 mt-12 justify-center">
+    <div class="flex grid-cols-1 gap-4 mt-12 justify-center ">
       <div class="flex flex-col md:flex-row rounded-lg bg-white shadow-xl">
         <img class=" md:w-1/2 h-96 md:h-auto object-cover md:w-30 rounded-t-lg md:rounded-none md:rounded-l-lg" src="/mayume2.jpeg" alt="" />
         <div class="md:col-span-8 p-6 md:flex flex-col self-center justify-items-center m-3">
@@ -17,9 +17,9 @@
             Meu nome é Mayume Cristine, tenho 27 anos, resido na cidade de Curitiba.
             Gosto muito de praticar esportes, fazer atividades ao ar livre, hiking e assistir filmes.
             Tenho uma formação recente em Desenvolvimento full stack.
-            Comecei a minha jornada com 16 anos como jovem aprendiz no
-            Atualmente sou estagiária de desenvolvimento web e curso o 6º período de engenharia mecatrônica
-            Me considero uma pessoa determinada, proativa
+            Comecei a minha jornada profissional aos 16 anos como jovem aprendiz no Tribunal de Justiça e desde então venho trabalhando para alcançar meus objetivos
+            Atualmente sou estagiária de desenvolvimento web e curso o 6º período de engenharia mecatrônica.
+            Me considero uma pessoa determinada, proativa, colaborativa e que possui uma boa comunicação.
           </p>
         </div>
       </div>
