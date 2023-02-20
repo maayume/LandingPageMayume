@@ -11,13 +11,15 @@
             <span class="font-extrabold ">Olá, eu sou a <span class="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">Mayume</span></span>
           </h1>
           <h1 class="font-semibold text-[18px] leading-snug pt-5 pb-5">
-            <span class="font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-violet-600 via-pink-600 to-amber-600">Desenvolvedora front-end</span>
+            <span class="font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-violet-600 via-pink-600 to-amber-600">Desenvolvedora front-end júnior</span>
           </h1>
           <p class="text-gray-700 text-base font-light text-[15px] md:text-[18px] lg:text-[22px] text-justify">
             Meu nome é Mayume Cristine, tenho 27 anos, resido na cidade de Curitiba.
-            Gosto muito de esportes, fazer atividades ao ar livre, hiking e assistir filmes.
+            Gosto muito de praticar esportes, fazer atividades ao ar livre, hiking e assistir filmes.
             Tenho uma formação recente em Desenvolvimento full stack.
+            Comecei a minha jornada com 16 anos como jovem aprendiz no
             Atualmente sou estagiária de desenvolvimento web e curso o 6º período de engenharia mecatrônica
+            Me considero uma pessoa determinada, proativa
           </p>
         </div>
       </div>

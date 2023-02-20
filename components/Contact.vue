@@ -8,15 +8,19 @@
               <span class="font-bold bg-clip-text text-transparent bg-pink-600">CONTATE-ME</span>
             </h1>
             <div class="my-6">
+              <label>Nome:</label>
               <input
+                v-model="name"
                 type="text"
                 class="form-control block w-full px-4 py-2 text-xl font-normal text-gray-700 bg-white bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none"
                 placeholder="Digite seu nome"
               />
             </div>
             <div class="mb-6">
+              <label>Email:</label>
               <input
-                type="password"
+                v-model="email"
+                type="email"
                 class="
                   form-control
                   block w-full
@@ -36,7 +40,10 @@
               />
             </div>
               <div class="mb-6">
+                <label>Mensagem:</label>
                 <textarea
+                  v-model="message"
+                  type="text"
                   class="
                     form-control
                     block
@@ -54,14 +61,14 @@
                     m-0
                     focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
                   "
-                  id="exampleFormControlTextarea1"
                   rows="6"
-                  placeholder="Mensagem"
+                  placeholder="Digite sua mensagem"
                 ></textarea>
               </div>
             <!-- button -->
             <button
               type="submit"
+              @click="getData($event)"
               class="inline-block px-7 py-3 bg-violet-700 text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-violet-900 hover:shadow-lg focus:bg-pink-600 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out w-full"
               data-mdb-ripple="true"
               data-mdb-ripple-color="light"
@@ -74,3 +81,32 @@
     </div>
   </VCard>
 </template>
+
+<script>
+export default {
+  name: 'Contact',
+  data() {
+    return {
+      name: '',
+      email: '',
+      message: '',
+      msg: null,
+    }
+  },
+  methods: {
+    getData (e) {
+      e.preventDefault()
+
+      const name = this.name
+      const email = this.email
+      const message = this.message
+
+      console.log(name, email)
+
+      //ajax
+      // inseir no banco
+      // const req = await fetch("http://localhost:3000/")
+    }
+  }
+}
+</script>

@@ -1,11 +1,11 @@
 <template>
   <header class="flex items-center justify-between h-20 max-w-6xl mx-auto p-7 lg:px-0">
-    <NuxtLink to="/">
+    <NuxtLink to="https://wa.me/5511959274705">
       <img src="/YUMIM_logo.png" class="w-35 h-20" />
     </NuxtLink>
 
     <div class="justify-self-end flex">
-    <ul class="sm:flex items-center space-x-3 hidden">
+    <ul class="md:flex items-center space-x-3 hidden">
       <template v-for="(n) in nav" :key="n">
         <li>
           <NuxtLink class="inline-block px-3 py-2 rounded-full text-violet-700 font-bold text-sm hover:text-violet-300 transition-all duration-300" :to="n.link">
@@ -30,6 +30,10 @@
     {
       name: "SOBRE MIM",
       link: "/#about",
+    },
+    {
+      name: "EXPERIÊNCIA",
+      link: "/#experience",
     },
     {
       name: "PORTIFOLIO",
