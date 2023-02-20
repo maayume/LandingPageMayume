@@ -1,6 +1,6 @@
 <template>
   <VCard class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-white contents flex-col">
-    <div id="partners" class=" mb-12 lg:mb-20 lg:pt-12">
+    <!-- <div id="partners" class=" mb-12 lg:mb-20 lg:pt-12">
       <h1 class="font-bold text-3xl text-white text-brand-accent text-center lg:text-4xl">
         Ferramentas
       </h1>
@@ -54,9 +54,9 @@
           <h3>{{ view }}</h3>
         </div>
       </div>
-    </div>
-    <div class="flex flex-col items-center p-10">
-      <h3 class="text-2xl text-gray-700 font-bold mb-6 ml-3 text-white text-center">Experiências</h3>
+    </div> -->
+    <div class="flex flex-col items-center px-10 mt-10">
+      <h3 class="text-2xl text-gray-700 font-bold mb-6 ml-3 text-white text-center">EXPERIÊNCIAS</h3>
 
       <ol class="border-l-2 border-pink-600">
         <li>
@@ -71,7 +71,7 @@
                 <a href="#!" class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm">Estágio em desenvolvimento web <br/> Clinic Tecnologia em Saúde</a>
                 <a href="#!" class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm">07/2022 - Atual</a>
               </div>
-              <p class="text-gray-700 mb-6">Ajuste de layouts de projetos já existentes na empresa com Vue.js. Criação de </p>
+              <p class="text-gray-700 mb-6 text-justify">Faço ajuste de layouts, implemento novas features e soluciono problemas em projetos já existentes na empresa com Vue.js. Participei do desenvolvimento de um site que cria templates para o whatsapp onde fiz o uso de Nuxt.js, Javascript, Regex, Vuetify. Atualmente estou participando no desenvolvimento de um prontuário médico.</p>
             </div>
           </div>
         </li>
@@ -87,7 +87,7 @@
                 <a href="#!" class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm">Auxiliar de registro <br/> 14º Registro de Imóveis de São Paulo</a>
                 <a href="#!" class="font-medium text-purple-600 hover:text-purple-700 focus:text-purple-800 duration-300 transition ease-in-out text-sm">11/2013 - 12/2016</a>
               </div>
-              <p class="text-gray-700 mb-6">Libero expedita explicabo eius fugiat quia aspernatur autem laudantium error architecto recusandae natus sapiente sit nam eaque, consectetur porro molestiae ipsam an deleniti.</p>
+              <p class="text-gray-700 mb-6 text-justify">Realizava lavratura de certidões, transcrição de documentos, arquivamento de pastas e atendimento.</p>
             </div>
           </div>
         </li>

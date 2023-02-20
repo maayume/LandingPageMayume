@@ -1,5 +1,6 @@
 <template>
-  <VCard class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-pink-100">
+  <VCard class="px-5 lg:px-0 pt-14 lg:pt-12 flex bg-pink-100 flex-col">
+    <h3 class="text-2xl text-pink-700 font-bold mb-6 ml-3 text-white text-center">PROJETOS</h3>
     <div class="flex flex-wrap gap-4 hover:gap-6 justify-center m-10">
       <div>
         <div class="max-w-sm rounded overflow-hidden shadow-lg border-2 border-violet-600 px-4 py-6 rounded-lg transform transition duration-500 hover:scale-90 hover:shadow-violet-600">
