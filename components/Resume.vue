@@ -55,10 +55,10 @@
         </div>
       </div>
     </div>
-    <div class="flex flex-col items-center">
+    <div class="flex flex-col items-center p-10">
       <h3 class="text-2xl text-gray-700 font-bold mb-6 ml-3 text-white text-center">Experiências</h3>
 
-      <ol class="border-l-2 border-purple-600 m-7">
+      <ol class="border-l-2 border-purple-600">
         <li>
           <div class="md:flex flex-start">
             <div class="bg-purple-600 w-6 h-6 flex items-center justify-center rounded-full -ml-3">
