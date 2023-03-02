@@ -62,11 +62,11 @@
           </div>
           <p
             class="
-              text-gray-700 text-base
+              text-gray-700
+              text-base
               font-light
               text-[15px]
               md:text-[18px]
-              lg:text-[22px]
               text-justify
             "
           >
